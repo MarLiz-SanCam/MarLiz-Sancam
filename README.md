@@ -18,13 +18,6 @@ Hi, My name is **MarLiz**, I'm a CSE student. I'm 23 years old, 📍from _Mexico
 - and I'm learning german 🇩🇪
 
 #### about my programming skills... 
-<p align='center'>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarLiz-SanCam&border_radius=10&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&background=F8EDE1&border=2E0F13&stroke=9A323E&fire=EB5454&currStreakNum=6C232B&sideNums=6C232B&currStreakLabel=9A323E&sideLabels=9A323E&dates=7D5036&excludeDaysLabel=7D5036&ring=EB5454&hide_total_contributions=true" alt="GitHub Streak" /></a>
-</p>
-
-<p align='center'>
-    <img style="height:100%;width:60%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLiz-SanCam&langs_count=10&layout=compact&title_color=2E0F13&bg_color=F8EDE1&border_color=2E0F13&text_color=09A323E&border_radius=10"/>
-</p>
 Those are some of the programming lenguajes and technologies that I use:
 <p align='center'>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
